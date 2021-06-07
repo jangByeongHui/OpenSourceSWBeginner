@@ -37,8 +37,10 @@
 <!-- EDA -->
 
 ## EDA
-<img src="/https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true" width="300" height="300">
+<p align="center">
+<img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true" width="300" height="300">
 <img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=true" width="300" height="300">
+</p>
 ### 이미지 예시
 현재 수집하고 가공한 이미지들은 Kaggle에 업로드 되어있다.
 ![Kaggle](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/Kaggle.png?raw=true)
@@ -50,7 +52,7 @@
 ## Performance
 
 ### 학습 평가 지표
-![그래프 종합](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/results.png?raw=true){: width="200" height="100"}
+![그래프 종합](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/results.png?raw=true)
 ### 라즈베리파이4 환경
 ![라즈베리파이 이미지](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/%EC%BA%A1%EC%B2%98.PNG?raw=true)
 
