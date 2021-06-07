@@ -16,9 +16,7 @@
 <summary><h2  style="display: inline-block">Content</h2></summary>
 
 <ol>
-
 <li>
-
 <a href="#about-the-project">프로젝트에 대해서</a>
 </li>
 <li>
@@ -42,13 +40,13 @@
 <!-- EDA -->
 
 ## EDA
-[![EDA1][데이터 분포1]](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true){: width="100" height="100"}
+![EDA1](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true){: width="100" height="100"}
 
-[![EDA2][데이터 분포2]](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=true){: width="100" height="100"}
+![EDA2](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=true){: width="100" height="100"}
 
 ### 이미지 예시
 현재 수집하고 가공한 이미지들은 Kaggle에 업로드 되어있다.
-[![Kaggle][이미지 예시]](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=truehttps://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/Kaggle.png?raw=true)
+![Kaggle](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=truehttps://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/Kaggle.png?raw=true)
 <a href="https://www.kaggle.com/jangbyeonghui/visually-impairedwhitecane">Visually impaired(whitecane)</a>
 
 
@@ -57,11 +55,11 @@
 ## Performance
 
 ### 학습 평가 지표
-[![Yolov5 평가지표][그래프 종합]](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/results.png?raw=true){: width="200" height="100"}
+![그래프 종합](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/results.png?raw=true){: width="200" height="100"}
 ### 라즈베리파이4 환경
-[![라즈베리파이 이미지][실제 구동 이미지]](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/%EC%BA%A1%EC%B2%98.PNG?raw=true)
+![라즈베리파이 이미지](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/%EC%BA%A1%EC%B2%98.PNG?raw=true)
 
-[![라즈베리파이 이미지][실제 구동 gif]](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/action_stream_Trim_Trim_Trim.gif?raw=true)
+![라즈베리파이 이미지](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/action_stream_Trim_Trim_Trim.gif?raw=true)
 
 <!-- conclusion -->
 
