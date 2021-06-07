@@ -38,8 +38,8 @@
 
 ## EDA
 <p align="center">
-<img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true" width="300" height="300">
-<img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=true" width="300" height="300">
+<img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true" width="500" height="500">
+<img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=true" width="500" height="500">
 </p>
 
 ### 이미지 예시
