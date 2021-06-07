@@ -41,8 +41,10 @@
 <img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true" width="300" height="300">
 <img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=true" width="300" height="300">
 </p>
+
 ### 이미지 예시
 현재 수집하고 가공한 이미지들은 Kaggle에 업로드 되어있다.
+
 ![Kaggle](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/Kaggle.png?raw=true)
 <a href="https://www.kaggle.com/jangbyeonghui/visually-impairedwhitecane">Visually impaired(whitecane)</a>
 
