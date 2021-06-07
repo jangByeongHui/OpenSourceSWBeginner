@@ -57,7 +57,7 @@
 ![그래프 종합](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/results.png?raw=true)
 ### 라즈베리파이4 환경
 ![라즈베리파이 이미지](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/%EC%BA%A1%EC%B2%98.PNG?raw=true)
-
+### 라즈베리파이를 이용한 실제 동작
 ![라즈베리파이 이미지](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/action_stream_Trim_Trim_Trim.gif?raw=true)
 
 <!-- conclusion -->
