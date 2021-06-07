@@ -6,9 +6,6 @@
 
 보행자 신호등에서 시각장애인들은 보조장치인 음향신호기를 통해 도움을 받을 수 있지만 종종 불편한 위치에 설치되어 있어 불편함을 겪는다. 본 프로젝트에서는 이러한 문제와 한계점을 개선하고자 Computer Vision 기반의 object detection 모델을 이용한 개선방안을 제시한다.
 
-<br  />
-<br  />
-<br  />
 <!-- TABLE OF CONTENTS -->
 
 <details  open="open">
@@ -40,13 +37,11 @@
 <!-- EDA -->
 
 ## EDA
-![EDA1](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true){: width="100" height="100"}
-
-![EDA2](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=true){: width="100" height="100"}
-
+<img src="/https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA1.jpg?raw=true" width="300" height="300">
+<img src="https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=true" width="300" height="300">
 ### 이미지 예시
 현재 수집하고 가공한 이미지들은 Kaggle에 업로드 되어있다.
-![Kaggle](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/EDA2.jpg?raw=truehttps://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/Kaggle.png?raw=true)
+![Kaggle](https://github.com/jangByeongHui/OpenSourceSWProject/blob/master/readme_img/Kaggle.png?raw=true)
 <a href="https://www.kaggle.com/jangbyeonghui/visually-impairedwhitecane">Visually impaired(whitecane)</a>
 
 
